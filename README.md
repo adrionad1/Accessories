@@ -2,8 +2,8 @@
 ```
 Accessries App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-accessories.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-accessories.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://Frontend-Accessories.adrionad1.repl.co) here!!
+Check out [API LIVE DEMO](https://backend-accessories.adrionad1.repl.co/) here!!
 
 <img width="811" alt="Screenshot 2022-05-24 at 1 30 58 PM" src="https://user-images.githubusercontent.com/99715304/169983638-48629234-766d-4208-832a-30b379f807b2.png">
 
